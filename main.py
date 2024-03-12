@@ -2,6 +2,7 @@ import os
 import sqlite3
 from datetime import datetime, timedelta
 # Firefox app must be closed before running
+# Meant to run on macOS
 
 
 def delete_old_firefox_history():
